@@ -1,0 +1,96 @@
+BasicInfo:
+  FirstName: José
+  LastName: Figueiredo
+  Photo: img/avatar.jpeg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +351 935197700
+    - Icon: fas fa-envelope
+      Info: josemfigueiredo@outlook.pt
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://josefigueiredo.com" target="_blank">josefigueiredo.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Aveiro, Portugal
+
+Profile: I'm a software developer with experience ranging from large-scale B2B software to product websites for small customers. Whatever the project, I always strive to keep the end-customer in mind in order to provide the best possible user experience.
+
+Experience:
+  - Employer: Uniguest
+    Place: Porto, Portugal
+    Positions:
+      - Title: Software Engineer
+        Date: Oct 2021 - Jun 2025
+        Details:
+          - Converted a legacy digital signage management Windows application to a modern web app that fits a SASS model.
+          - Built a large-scale resource management web app to book and manage desks, parking spaces, and other such resources within one or more buildings.
+          - Designed and implemented software to manage several hundreds of digital signage devices all pulling from a central API, ensuring balanced data loads, stability, and multiple fallback mechanisms to guarantee 24/7 operation.
+          - Worked with my team to manage both customer and stakeholder requirements, ensuring everyone involved with the project is kept happy and up to date.
+        Badges: ['ReactJS', '.NET', 'Javascript', 'C#', 'Angular', 'CSS', 'SCSS', 'LiteDB', 'Web', 'Agile']
+  - Employer: LOAD
+    Place: Aveiro, Portugal
+    Positions:
+      - Title: Software Engineer
+        Date: Feb 2020 - Feb 2021
+        Details:
+          - Developed several product and service websites for a multitude of customers using a multitude of technologies such as the MERN stack and Wordpress with custom themes and plug-ins for complex behaviour.
+          - Designed and developed an endless runner videogame using Unity3D (C#) targetting mobile platforms.
+          - Collaborated with a major player in the Angolan banking industry to develop a middleware that interacts with the country's central banking system to facilitate electronic payments using ASP.NET Core.
+        Badges: ['.NET', 'Wordpress', 'C#', 'Unity3D', 'MongoDB', 'PHP', 'NodeJS', 'ExpressJS']
+  - Employer: Novabase
+    Place: Lisbon, Portugal
+    Positions:
+      - Title: Junior Software Engineer
+        Date: Oct 2019 - Feb 2020
+        Details:
+          - Brought an extensive legacy codebase up to modern standards while in close contact with the customer, understanding and continuously implementing their requirements into the new product.
+        Badges: ['.NET', 'C#', 'Angular', 'SOAP', 'REST']
+
+Education:
+  - Course: High School Diploma in Science and Technology
+    Place: Escola Secundária Damião de Goes
+
+Skills:
+  - Family: Programming
+    Items:
+      - C#
+      - Javascript
+      - Python
+      - CSS
+      - SASS
+      - SQL
+      - Bash
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - React
+      - Angular
+      - Hugo
+      - Flask
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Github Actions
+      - Docker
+      - Jenkins
+      - Postman
+  - Family: Misc
+    Items:
+      - Windows
+      - Linux
+      - MacOS
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: Spanish
+    Level: A2
+
+Interests:
+  - Hiking
+  - Photography
+  - CompSci
+  - Literature
+  - Astronomy
+  - Heavy Metal

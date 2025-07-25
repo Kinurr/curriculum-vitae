@@ -1,0 +1,25 @@
+// override me
+
+// make avatar static & adjust position
+.avatar {
+    width: 100%;
+
+    &__container {
+        width: 100%;
+        clip-path: circle(48% at 50% 56%);
+
+        &:hover {
+            width: 100%;
+        }
+    }
+
+    &__img {
+        object-fit: cover;
+        width: 100%;
+        translate: 3px 25px;
+
+        &:hover {
+            width: 105%;
+        }
+    }
+}
